@@ -1,0 +1,25 @@
+body {
+  background-color: #fcf8e8;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  width: 5%;
+  border-width: 10px;
+  border-spacing: 30px;
+}
+
+h1 {
+  color: #df7861;
+  font-size: 100px;
+}
+
+h2 {
+  color: #ecb390;
+  font-size: 50px
+
+}
+p {
+  font-size: 35px;
+}
